@@ -121,10 +121,6 @@
       "defaultValue": "ethereumex/geth-node:latest",
       "type": "string"
     },
-    "minerNodeDockerImage": {
-      "defaultValue": "ethereumex/geth-node:latest",
-      "type": "string"
-    },
     "locationOverride": {
       "type": "string",
       "defaultValue": "",

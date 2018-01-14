@@ -115,26 +115,7 @@
     },
     "dashboardDockerImage": {
       "defaultValue": "ethereumex/eth-stats-dashboard:latest",
-      "type": "string",
-      "allowedValues": [
-        "ethereumex/eth-stats-dashboard:latest"
-      ]
-    },
-    "txNodeDockerImage": {
-      "defaultValue": "ethereumex/geth-node:latest",
-      "type": "string",
-      "allowedValues": [
-        "ethereumex/geth-node:latest",
-        "ethereumex/parity-node:latest"
-      ]
-      
-    },
-    "minerNodeDockerImage": {
-      "defaultValue": "ethereumex/geth-node:latest",
-      "type": "string",
-      "allowedValues": [
-        "ethereumex/geth-node:latest"
-      ]
+      "type": "string"
     },
     "locationOverride": {
       "type": "string",

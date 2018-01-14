@@ -123,13 +123,6 @@
         "description": "The tag of the docker image to download"
       }
     },
-    "minerNodeDockerImage": {
-      "defaultValue": "ethereumex/geth-node:latest",
-      "type": "string",
-      "metadata": {
-        "description": "The tag of the docker image to download"
-      }
-    },
     "contentVersion": {
       "defaultValue": "Release-v1.0.0",
       "type": "string",
